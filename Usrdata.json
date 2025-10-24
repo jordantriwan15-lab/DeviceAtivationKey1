@@ -28,6 +28,12 @@
         "key": "bornarea3",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec44d129b0c8375c",
+        "key": "ryubeutiful",
+        "expirydate": "31-10-2025",
+        "Allowoffline": false
     }
 ]
     
