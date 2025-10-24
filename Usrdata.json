@@ -22,6 +22,12 @@
         "key": "bornarea1",
         "expirydate": "15-11-2025",
         "Allowoffline": false     
+    },
+    {
+        "device_id": "24syn42",
+        "key": "bornarea3",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
     
