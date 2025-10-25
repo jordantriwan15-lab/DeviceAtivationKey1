@@ -34,6 +34,12 @@
         "key": "ryubeutiful",
         "expirydate": "31-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "41a720f5c6a96841",
+        "key": "dedekimut",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
     }
 ]
     
