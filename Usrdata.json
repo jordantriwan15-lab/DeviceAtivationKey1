@@ -40,6 +40,12 @@
         "key": "dedekimut",
         "expirydate": "31-10-2026",
         "Allowoffline": false
-    }
+    },
+      {
+        "device_id": "eef1ed90bb8f01fb",
+        "key": "dedekimut",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
+      }
 ]
     
