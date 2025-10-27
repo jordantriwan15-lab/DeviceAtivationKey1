@@ -46,6 +46,12 @@
         "key": "dedekimut",
         "expirydate": "31-10-2026",
         "Allowoffline": false
-      }
+      },
+    {
+        "device_id": "q03b80c58c56c4941",
+        "key": "Bornvodka",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
+    }
 ]
     
