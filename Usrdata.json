@@ -52,6 +52,13 @@
         "key": "Bornvodka",
         "expirydate": "31-10-2026",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "f82d8c037641d9ee",
+        "key": "Bornnana",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
     
