@@ -60,13 +60,11 @@
         "expirydate": "31-12-2025",
         "Allowoffline": false
     },
-    
     {
         "device_id": "2fb64ada21379f23",
-        "key": "Bornnana",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    }
-    
+        "key": "bornarea1",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false     
+    }     
 ]
     
