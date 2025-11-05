@@ -54,16 +54,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "1abf4967a9febe56",
-        "key": "VYX012",
+        "device_id": "01fd090b93c64d6e",
+        "key": "aresjamet",
         "expirydate": "15-11-2026",
         "Allowoffline": false     
     },
-    {
-        "device_id": "01fd090b93c64d6e",
-        "key": "VYX012",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false     
-    }     
 ]
     
